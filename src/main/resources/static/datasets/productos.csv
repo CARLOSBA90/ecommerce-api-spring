@@ -1,0 +1,501 @@
+id,name,price,description,category_id
+1,Raqueta de tenis,648.14,Descripción del Raqueta de tenis,3
+2,Cómoda de madera,203.11,Descripción del Cómoda de madera,11
+3,Cien años de soledad,865.17,Descripción del Cien años de soledad,10
+4,El Quijote,116.30,Descripción del El Quijote,10
+5,Lego Star Wars,338.60,Descripción del Lego Star Wars,9
+6,Camiseta deportiva,267.50,Descripción del Camiseta deportiva,3
+7,Chaqueta de cuero,728.98,Descripción del Chaqueta de cuero,12
+8,Cámara digital,885.04,Descripción del Cámara digital,4
+9,Lego Star Wars 156,168.23,Descripción del Lego Star Wars 156,9
+10,Camiseta deportiva 554,783.11,Descripción del Camiseta deportiva 554,3
+11,Jeans ajustados,10.62,Descripción del Jeans ajustados,12
+12,Bicicleta de montaña,993.58,Descripción del Bicicleta de montaña,3
+13,Tijeras de podar,545.43,Descripción del Tijeras de podar,8
+14,Camión de juguete,117.99,Descripción del Camión de juguete,9
+15,Escritorio de oficina,435.86,Descripción del Escritorio de oficina,11
+16,Destornillador,369.46,Descripción del Destornillador,5
+17,Pelota de fútbol,504.86,Descripción del Pelota de fútbol,3
+18,Camiseta de algodón,728.22,Descripción del Camiseta de algodón,12
+19,Llantas de aleación,87.50,Descripción del Llantas de aleación,1
+20,Armario de puertas correderas,427.94,Descripción del Armario de puertas correderas,11
+21,Cámara digital 811,843.25,Descripción del Cámara digital 811,4
+22,Manguera de jardín,516.75,Descripción del Manguera de jardín,8
+23,Tierra para plantas,523.18,Descripción del Tierra para plantas,8
+24,Llantas de aleación 285,601.40,Descripción del Llantas de aleación 285,1
+25,Puzzle 1000 piezas,536.30,Descripción del Puzzle 1000 piezas,9
+26,Chaqueta de cuero 959,408.04,Descripción del Chaqueta de cuero 959,12
+27,Silla de oficina,50.13,Descripción del Silla de oficina,7
+28,Fertilizante,843.85,Descripción del Fertilizante,8
+29,Silla ergonómica,372.73,Descripción del Silla ergonómica,11
+30,Tierra para plantas 867,238.85,Descripción del Tierra para plantas 867,8
+31,Camiseta de algodón 65,649.86,Descripción del Camiseta de algodón 65,12
+32,Teléfono inteligente,325.15,Descripción del Teléfono inteligente,4
+33,Fertilizante 544,328.97,Descripción del Fertilizante 544,8
+34,Vestido de verano,782.76,Descripción del Vestido de verano,12
+35,El Quijote 142,686.59,Descripción del El Quijote 142,10
+36,Llantas de aleación 125,697.75,Descripción del Llantas de aleación 125,1
+37,Muñeca Barbie,35.63,Descripción del Muñeca Barbie,9
+38,Pelota de fútbol 937,561.29,Descripción del Pelota de fútbol 937,3
+39,Camión de juguete 270,941.54,Descripción del Camión de juguete 270,9
+40,Silla ergonómica 848,113.01,Descripción del Silla ergonómica 848,11
+41,Chaqueta de cuero 825,609.66,Descripción del Chaqueta de cuero 825,12
+42,Sudadera con capucha,796.07,Descripción del Sudadera con capucha,12
+43,Cien años de soledad 881,706.54,Descripción del Cien años de soledad 881,10
+44,Estantería de madera,299.11,Descripción del Estantería de madera,7
+45,Harry Potter y la piedra filosofal,541.43,Descripción del Harry Potter y la piedra filosofal,10
+46,Llave inglesa,107.34,Descripción del Llave inglesa,5
+47,Fertilizante 730,634.66,Descripción del Fertilizante 730,8
+48,Escritorio de oficina 109,239.44,Descripción del Escritorio de oficina 109,11
+49,Raqueta de tenis 229,289.34,Descripción del Raqueta de tenis 229,3
+50,Bicicleta de montaña 511,391.26,Descripción del Bicicleta de montaña 511,3
+51,Cortacésped,526.54,Descripción del Cortacésped,8
+52,Cien años de soledad 671,313.30,Descripción del Cien años de soledad 671,10
+53,Guantes de boxeo,861.76,Descripción del Guantes de boxeo,3
+54,Auriculares inalámbricos,314.46,Descripción del Auriculares inalámbricos,4
+55,Camiseta de algodón 455,85.34,Descripción del Camiseta de algodón 455,12
+56,El Quijote 347,619.03,Descripción del El Quijote 347,10
+57,El Principito,341.17,Descripción del El Principito,10
+58,Martillo,806.70,Descripción del Martillo,5
+59,Destornillador 202,904.84,Descripción del Destornillador 202,5
+60,Lego Star Wars 181,958.64,Descripción del Lego Star Wars 181,9
+61,Batería para auto,658.57,Descripción del Batería para auto,1
+62,Bicicleta de montaña 887,514.58,Descripción del Bicicleta de montaña 887,3
+63,Cien años de soledad 130,610.85,Descripción del Cien años de soledad 130,10
+64,Cortacésped 992,706.46,Descripción del Cortacésped 992,8
+65,Mesa de comedor,533.41,Descripción del Mesa de comedor,7
+66,Llantas de aleación 209,578.75,Descripción del Llantas de aleación 209,1
+67,Guantes de boxeo 386,121.16,Descripción del Guantes de boxeo 386,3
+68,Taladro inalámbrico,393.19,Descripción del Taladro inalámbrico,5
+69,El Quijote 137,700.03,Descripción del El Quijote 137,10
+70,Cámara digital 872,463.01,Descripción del Cámara digital 872,4
+71,Pistola de agua,703.66,Descripción del Pistola de agua,9
+72,El Quijote 273,101.89,Descripción del El Quijote 273,10
+73,Camiseta deportiva 830,227.72,Descripción del Camiseta deportiva 830,3
+74,Silla ergonómica 955,980.77,Descripción del Silla ergonómica 955,11
+75,Televisor LED,375.90,Descripción del Televisor LED,4
+76,Pelota de fútbol 556,907.65,Descripción del Pelota de fútbol 556,3
+77,Pistola de agua 163,735.53,Descripción del Pistola de agua 163,9
+78,Muñeca Barbie 696,842.67,Descripción del Muñeca Barbie 696,9
+79,Pistola de agua 592,403.15,Descripción del Pistola de agua 592,9
+80,Sofá de cuero,863.14,Descripción del Sofá de cuero,7
+81,Llave inglesa 189,960.90,Descripción del Llave inglesa 189,5
+82,Pelota de fútbol 433,200.92,Descripción del Pelota de fútbol 433,3
+83,Chaqueta de cuero 609,109.35,Descripción del Chaqueta de cuero 609,12
+84,Cien años de soledad 937,248.17,Descripción del Cien años de soledad 937,10
+85,Sierra eléctrica,577.33,Descripción del Sierra eléctrica,5
+86,Cómoda de madera 367,989.76,Descripción del Cómoda de madera 367,11
+87,Fertilizante 191,826.61,Descripción del Fertilizante 191,8
+88,La Odisea,691.78,Descripción del La Odisea,10
+89,Puzzle 1000 piezas 453,840.97,Descripción del Puzzle 1000 piezas 453,9
+90,Silla de oficina 383,737.10,Descripción del Silla de oficina 383,7
+91,Televisor LED 57,335.19,Descripción del Televisor LED 57,4
+92,Escritorio de oficina 775,775.73,Descripción del Escritorio de oficina 775,11
+93,Cama King Size,564.74,Descripción del Cama King Size,7
+94,Pelota de fútbol 955,855.17,Descripción del Pelota de fútbol 955,3
+95,El Principito 766,99.25,Descripción del El Principito 766,10
+96,Destornillador 548,171.79,Descripción del Destornillador 548,5
+97,Sudadera con capucha 998,106.31,Descripción del Sudadera con capucha 998,12
+98,Escritorio de oficina 918,463.34,Descripción del Escritorio de oficina 918,11
+99,Armario de puertas correderas 339,685.46,Descripción del Armario de puertas correderas 339,11
+100,Cortacésped 599,593.09,Descripción del Cortacésped 599,8
+101,Escritorio de oficina 847,367.92,Descripción del Escritorio de oficina 847,11
+102,Puzzle 1000 piezas 338,542.98,Descripción del Puzzle 1000 piezas 338,9
+103,Cortacésped 386,915.62,Descripción del Cortacésped 386,8
+104,Silla ergonómica 56,27.91,Descripción del Silla ergonómica 56,11
+105,Sudadera con capucha 513,265.45,Descripción del Sudadera con capucha 513,12
+106,Camiseta deportiva 526,354.97,Descripción del Camiseta deportiva 526,3
+107,Pelota de fútbol 975,431.36,Descripción del Pelota de fútbol 975,3
+108,Armario de puertas correderas 190,661.71,Descripción del Armario de puertas correderas 190,11
+109,Lego Star Wars 683,573.50,Descripción del Lego Star Wars 683,9
+110,Sudadera con capucha 830,390.00,Descripción del Sudadera con capucha 830,12
+111,El Quijote 976,751.94,Descripción del El Quijote 976,10
+112,Batería para auto 26,821.92,Descripción del Batería para auto 26,1
+113,Televisor LED 230,650.77,Descripción del Televisor LED 230,4
+114,Estantería de madera 34,410.22,Descripción del Estantería de madera 34,7
+115,Escritorio de oficina 902,619.68,Descripción del Escritorio de oficina 902,11
+116,Chaqueta de cuero 278,528.38,Descripción del Chaqueta de cuero 278,12
+117,Fertilizante 276,847.00,Descripción del Fertilizante 276,8
+118,Mesa de centro,192.32,Descripción del Mesa de centro,11
+119,Auriculares inalámbricos 878,68.56,Descripción del Auriculares inalámbricos 878,4
+120,Cámara digital 528,67.28,Descripción del Cámara digital 528,4
+121,El Quijote 213,238.16,Descripción del El Quijote 213,10
+122,Chaqueta de cuero 969,895.71,Descripción del Chaqueta de cuero 969,12
+123,Camiseta de algodón 775,826.39,Descripción del Camiseta de algodón 775,12
+124,Camiseta de algodón 994,164.30,Descripción del Camiseta de algodón 994,12
+125,Sierra eléctrica 178,393.19,Descripción del Sierra eléctrica 178,5
+126,Cama King Size 687,730.10,Descripción del Cama King Size 687,7
+127,Llave inglesa 775,370.73,Descripción del Llave inglesa 775,5
+128,Camión de juguete 237,185.40,Descripción del Camión de juguete 237,9
+129,Camiseta de algodón 846,243.43,Descripción del Camiseta de algodón 846,12
+130,Silla ergonómica 471,558.23,Descripción del Silla ergonómica 471,11
+131,Raqueta de tenis 869,895.11,Descripción del Raqueta de tenis 869,3
+132,Televisor LED 929,336.14,Descripción del Televisor LED 929,4
+133,Escritorio de oficina 193,289.08,Descripción del Escritorio de oficina 193,11
+134,Auriculares inalámbricos 963,894.73,Descripción del Auriculares inalámbricos 963,4
+135,Vestido de verano 485,262.03,Descripción del Vestido de verano 485,12
+136,Parabrisas,201.63,Descripción del Parabrisas,1
+137,Llave inglesa 187,928.85,Descripción del Llave inglesa 187,5
+138,Camiseta deportiva 403,448.93,Descripción del Camiseta deportiva 403,3
+139,Taladro inalámbrico 764,923.98,Descripción del Taladro inalámbrico 764,5
+140,Raqueta de tenis 795,643.96,Descripción del Raqueta de tenis 795,3
+141,Cama King Size 283,619.60,Descripción del Cama King Size 283,7
+142,Manguera de jardín 110,988.92,Descripción del Manguera de jardín 110,8
+143,Teléfono inteligente 981,682.62,Descripción del Teléfono inteligente 981,4
+144,Silla ergonómica 755,650.10,Descripción del Silla ergonómica 755,11
+145,Vestido de verano 685,655.54,Descripción del Vestido de verano 685,12
+146,Cortacésped 920,940.06,Descripción del Cortacésped 920,8
+147,Filtro de aceite,669.98,Descripción del Filtro de aceite,1
+148,Guantes de boxeo 86,536.57,Descripción del Guantes de boxeo 86,3
+149,Harry Potter y la piedra filosofal 287,995.13,Descripción del Harry Potter y la piedra filosofal 287,10
+150,Tijeras de podar 928,283.71,Descripción del Tijeras de podar 928,8
+151,Estantería de madera 518,934.48,Descripción del Estantería de madera 518,7
+152,Tierra para plantas 931,954.50,Descripción del Tierra para plantas 931,8
+153,Jeans ajustados 867,652.83,Descripción del Jeans ajustados 867,12
+154,Destornillador 208,674.24,Descripción del Destornillador 208,5
+155,Martillo 727,164.68,Descripción del Martillo 727,5
+156,Parabrisas 83,877.75,Descripción del Parabrisas 83,1
+157,Cama King Size 240,890.27,Descripción del Cama King Size 240,7
+158,Escritorio de oficina 348,846.22,Descripción del Escritorio de oficina 348,11
+159,Sudadera con capucha 314,184.92,Descripción del Sudadera con capucha 314,12
+160,Silla de oficina 418,499.47,Descripción del Silla de oficina 418,7
+161,Tijeras de podar 146,851.44,Descripción del Tijeras de podar 146,8
+162,Sudadera con capucha 833,50.31,Descripción del Sudadera con capucha 833,12
+163,Cámara digital 692,617.53,Descripción del Cámara digital 692,4
+164,Cortacésped 787,834.32,Descripción del Cortacésped 787,8
+165,Silla ergonómica 992,630.69,Descripción del Silla ergonómica 992,11
+166,Harry Potter y la piedra filosofal 649,382.11,Descripción del Harry Potter y la piedra filosofal 649,10
+167,Camión de juguete 135,816.40,Descripción del Camión de juguete 135,9
+168,Taladro inalámbrico 925,733.43,Descripción del Taladro inalámbrico 925,5
+169,Filtro de aceite 934,400.54,Descripción del Filtro de aceite 934,1
+170,El Quijote 335,203.26,Descripción del El Quijote 335,10
+171,Camiseta de algodón 945,385.24,Descripción del Camiseta de algodón 945,12
+172,Silla ergonómica 148,227.81,Descripción del Silla ergonómica 148,11
+173,Fertilizante 720,371.34,Descripción del Fertilizante 720,8
+174,Cortacésped 426,216.37,Descripción del Cortacésped 426,8
+175,Cama King Size 73,173.10,Descripción del Cama King Size 73,7
+176,Llantas de aleación 795,87.54,Descripción del Llantas de aleación 795,1
+177,Llantas de aleación 777,910.02,Descripción del Llantas de aleación 777,1
+178,Silla de oficina 804,767.14,Descripción del Silla de oficina 804,7
+179,Auriculares inalámbricos 234,179.33,Descripción del Auriculares inalámbricos 234,4
+180,Sudadera con capucha 615,333.98,Descripción del Sudadera con capucha 615,12
+181,Cinturón de seguridad,464.39,Descripción del Cinturón de seguridad,1
+182,Jeans ajustados 173,936.47,Descripción del Jeans ajustados 173,12
+183,Teléfono inteligente 392,626.21,Descripción del Teléfono inteligente 392,4
+184,Pelota de fútbol 668,496.65,Descripción del Pelota de fútbol 668,3
+185,Mesa de centro 605,556.46,Descripción del Mesa de centro 605,11
+186,Silla de oficina 715,535.22,Descripción del Silla de oficina 715,7
+187,Estantería de madera 722,682.83,Descripción del Estantería de madera 722,7
+188,Guantes de boxeo 877,439.43,Descripción del Guantes de boxeo 877,3
+189,Fertilizante 590,304.57,Descripción del Fertilizante 590,8
+190,Escritorio de oficina 179,531.75,Descripción del Escritorio de oficina 179,11
+191,Raqueta de tenis 70,26.05,Descripción del Raqueta de tenis 70,3
+192,Guantes de boxeo 207,168.93,Descripción del Guantes de boxeo 207,3
+193,Cortacésped 757,410.38,Descripción del Cortacésped 757,8
+194,Taladro inalámbrico 840,957.38,Descripción del Taladro inalámbrico 840,5
+195,Cama King Size 717,958.69,Descripción del Cama King Size 717,7
+196,Bicicleta de montaña 53,458.85,Descripción del Bicicleta de montaña 53,3
+197,Destornillador 387,373.65,Descripción del Destornillador 387,5
+198,Guantes de boxeo 216,716.45,Descripción del Guantes de boxeo 216,3
+199,Teléfono inteligente 950,467.97,Descripción del Teléfono inteligente 950,4
+200,El Quijote 147,71.20,Descripción del El Quijote 147,10
+201,El Principito 321,324.73,Descripción del El Principito 321,10
+202,Auriculares inalámbricos 378,675.87,Descripción del Auriculares inalámbricos 378,4
+203,Tierra para plantas 249,381.87,Descripción del Tierra para plantas 249,8
+204,Muñeca Barbie 801,923.18,Descripción del Muñeca Barbie 801,9
+205,Vestido de verano 66,428.73,Descripción del Vestido de verano 66,12
+206,Jeans ajustados 636,476.84,Descripción del Jeans ajustados 636,12
+207,Auriculares inalámbricos 535,400.55,Descripción del Auriculares inalámbricos 535,4
+208,Taladro inalámbrico 687,712.57,Descripción del Taladro inalámbrico 687,5
+209,Mesa de comedor 620,564.45,Descripción del Mesa de comedor 620,7
+210,Manguera de jardín 992,536.33,Descripción del Manguera de jardín 992,8
+211,Televisor LED 553,422.80,Descripción del Televisor LED 553,4
+212,Pelota de fútbol 348,631.09,Descripción del Pelota de fútbol 348,3
+213,Harry Potter y la piedra filosofal 239,202.57,Descripción del Harry Potter y la piedra filosofal 239,10
+214,Sierra eléctrica 703,958.40,Descripción del Sierra eléctrica 703,5
+215,Laptop,124.85,Descripción del Laptop,4
+216,Silla de oficina 192,283.18,Descripción del Silla de oficina 192,7
+217,Teléfono inteligente 666,541.67,Descripción del Teléfono inteligente 666,4
+218,Cómoda de madera 434,86.61,Descripción del Cómoda de madera 434,11
+219,El Quijote 421,802.22,Descripción del El Quijote 421,10
+220,Vestido de verano 287,242.78,Descripción del Vestido de verano 287,12
+221,Fertilizante 202,645.13,Descripción del Fertilizante 202,8
+222,Mesa de centro 230,798.88,Descripción del Mesa de centro 230,11
+223,La Odisea 977,221.72,Descripción del La Odisea 977,10
+224,Pelota de fútbol 587,479.16,Descripción del Pelota de fútbol 587,3
+225,Televisor LED 816,973.70,Descripción del Televisor LED 816,4
+226,Bicicleta de montaña 799,722.62,Descripción del Bicicleta de montaña 799,3
+227,Puzzle 1000 piezas 421,486.36,Descripción del Puzzle 1000 piezas 421,9
+228,Jeans ajustados 874,490.68,Descripción del Jeans ajustados 874,12
+229,Sudadera con capucha 778,123.13,Descripción del Sudadera con capucha 778,12
+230,Fertilizante 175,230.66,Descripción del Fertilizante 175,8
+231,Teléfono inteligente 767,252.60,Descripción del Teléfono inteligente 767,4
+232,Raqueta de tenis 526,914.98,Descripción del Raqueta de tenis 526,3
+233,Muñeca Barbie 145,231.78,Descripción del Muñeca Barbie 145,9
+234,Armario de puertas correderas 375,340.40,Descripción del Armario de puertas correderas 375,11
+235,Manguera de jardín 940,724.16,Descripción del Manguera de jardín 940,8
+236,Cinturón de seguridad 108,170.36,Descripción del Cinturón de seguridad 108,1
+237,Lego Star Wars 242,780.53,Descripción del Lego Star Wars 242,9
+238,Cómoda de madera 127,979.73,Descripción del Cómoda de madera 127,11
+239,Guantes de boxeo 507,330.57,Descripción del Guantes de boxeo 507,3
+240,Cortacésped 503,290.29,Descripción del Cortacésped 503,8
+241,Parabrisas 349,395.92,Descripción del Parabrisas 349,1
+242,Cámara digital 17,730.48,Descripción del Cámara digital 17,4
+243,Fertilizante 747,695.21,Descripción del Fertilizante 747,8
+244,Cien años de soledad 563,204.75,Descripción del Cien años de soledad 563,10
+245,Mesa de comedor 144,68.67,Descripción del Mesa de comedor 144,7
+246,Batería para auto 998,518.79,Descripción del Batería para auto 998,1
+247,Cámara digital 235,420.86,Descripción del Cámara digital 235,4
+248,Destornillador 511,55.94,Descripción del Destornillador 511,5
+249,Jeans ajustados 931,568.26,Descripción del Jeans ajustados 931,12
+250,Televisor LED 669,571.63,Descripción del Televisor LED 669,4
+251,Cómoda de madera 771,864.22,Descripción del Cómoda de madera 771,11
+252,Pistola de agua 538,558.24,Descripción del Pistola de agua 538,9
+253,Sofá de cuero 319,897.49,Descripción del Sofá de cuero 319,7
+254,Cámara digital 433,955.55,Descripción del Cámara digital 433,4
+255,Parabrisas 414,179.30,Descripción del Parabrisas 414,1
+256,Mesa de centro 308,919.86,Descripción del Mesa de centro 308,11
+257,Chaqueta de cuero 229,791.19,Descripción del Chaqueta de cuero 229,12
+258,Sofá de cuero 919,444.19,Descripción del Sofá de cuero 919,7
+259,La Odisea 492,39.22,Descripción del La Odisea 492,10
+260,Tijeras de podar 877,209.74,Descripción del Tijeras de podar 877,8
+261,Llave inglesa 596,149.14,Descripción del Llave inglesa 596,5
+262,Sofá de cuero 286,406.96,Descripción del Sofá de cuero 286,7
+263,Pistola de agua 921,695.67,Descripción del Pistola de agua 921,9
+264,Mesa de centro 848,465.85,Descripción del Mesa de centro 848,11
+265,Raqueta de tenis 654,622.66,Descripción del Raqueta de tenis 654,3
+266,Filtro de aceite 186,493.15,Descripción del Filtro de aceite 186,1
+267,Sudadera con capucha 831,508.45,Descripción del Sudadera con capucha 831,12
+268,Estantería de madera 642,612.18,Descripción del Estantería de madera 642,7
+269,Tijeras de podar 124,534.22,Descripción del Tijeras de podar 124,8
+270,Muñeca Barbie 287,117.57,Descripción del Muñeca Barbie 287,9
+271,Martillo 54,429.87,Descripción del Martillo 54,5
+272,Taladro inalámbrico 632,660.35,Descripción del Taladro inalámbrico 632,5
+273,Teléfono inteligente 401,294.75,Descripción del Teléfono inteligente 401,4
+274,Silla de oficina 811,189.20,Descripción del Silla de oficina 811,7
+275,Llave inglesa 315,801.72,Descripción del Llave inglesa 315,5
+276,Cama King Size 274,136.19,Descripción del Cama King Size 274,7
+277,Martillo 556,873.99,Descripción del Martillo 556,5
+278,Escritorio de oficina 774,266.14,Descripción del Escritorio de oficina 774,11
+279,Silla de oficina 43,488.48,Descripción del Silla de oficina 43,7
+280,Pelota de fútbol 373,259.25,Descripción del Pelota de fútbol 373,3
+281,Cama King Size 34,410.25,Descripción del Cama King Size 34,7
+282,Harry Potter y la piedra filosofal 447,675.32,Descripción del Harry Potter y la piedra filosofal 447,10
+283,Auriculares inalámbricos 114,778.57,Descripción del Auriculares inalámbricos 114,4
+284,Silla ergonómica 284,803.55,Descripción del Silla ergonómica 284,11
+285,Sudadera con capucha 401,761.03,Descripción del Sudadera con capucha 401,12
+286,Manguera de jardín 933,292.43,Descripción del Manguera de jardín 933,8
+287,Fertilizante 125,283.45,Descripción del Fertilizante 125,8
+288,Silla de oficina 605,778.41,Descripción del Silla de oficina 605,7
+289,Muñeca Barbie 268,992.12,Descripción del Muñeca Barbie 268,9
+290,Manguera de jardín 700,672.10,Descripción del Manguera de jardín 700,8
+291,Pelota de fútbol 729,995.93,Descripción del Pelota de fútbol 729,3
+292,Chaqueta de cuero 842,852.71,Descripción del Chaqueta de cuero 842,12
+293,Teléfono inteligente 556,848.59,Descripción del Teléfono inteligente 556,4
+294,Sudadera con capucha 976,601.03,Descripción del Sudadera con capucha 976,12
+295,Teléfono inteligente 743,615.92,Descripción del Teléfono inteligente 743,4
+296,Armario de puertas correderas 393,436.90,Descripción del Armario de puertas correderas 393,11
+297,Puzzle 1000 piezas 295,352.66,Descripción del Puzzle 1000 piezas 295,9
+298,El Principito 834,889.77,Descripción del El Principito 834,10
+299,Pistola de agua 259,751.42,Descripción del Pistola de agua 259,9
+300,Llave inglesa 861,858.29,Descripción del Llave inglesa 861,5
+301,Mesa de comedor 565,715.42,Descripción del Mesa de comedor 565,7
+302,Sudadera con capucha 526,532.85,Descripción del Sudadera con capucha 526,12
+303,Laptop 271,941.44,Descripción del Laptop 271,4
+304,Silla de oficina 635,902.97,Descripción del Silla de oficina 635,7
+305,Bicicleta de montaña 921,950.36,Descripción del Bicicleta de montaña 921,3
+306,Laptop 598,549.48,Descripción del Laptop 598,4
+307,Martillo 303,76.63,Descripción del Martillo 303,5
+308,Camiseta de algodón 557,601.00,Descripción del Camiseta de algodón 557,12
+309,Taladro inalámbrico 317,729.28,Descripción del Taladro inalámbrico 317,5
+310,Manguera de jardín 883,768.36,Descripción del Manguera de jardín 883,8
+311,El Quijote 968,451.66,Descripción del El Quijote 968,10
+312,Raqueta de tenis 1,348.66,Descripción del Raqueta de tenis 1,3
+313,Escritorio de oficina 93,728.93,Descripción del Escritorio de oficina 93,11
+314,Auriculares inalámbricos 450,735.56,Descripción del Auriculares inalámbricos 450,4
+315,Cinturón de seguridad 327,241.11,Descripción del Cinturón de seguridad 327,1
+316,Parabrisas 798,76.09,Descripción del Parabrisas 798,1
+317,Guantes de boxeo 144,981.26,Descripción del Guantes de boxeo 144,3
+318,Mesa de centro 749,117.01,Descripción del Mesa de centro 749,11
+319,Taladro inalámbrico 164,134.03,Descripción del Taladro inalámbrico 164,5
+320,Bicicleta de montaña 72,208.17,Descripción del Bicicleta de montaña 72,3
+321,Camiseta deportiva 212,113.91,Descripción del Camiseta deportiva 212,3
+322,Batería para auto 609,375.50,Descripción del Batería para auto 609,1
+323,Tierra para plantas 812,889.48,Descripción del Tierra para plantas 812,8
+324,Tierra para plantas 545,603.65,Descripción del Tierra para plantas 545,8
+325,Televisor LED 660,806.54,Descripción del Televisor LED 660,4
+326,Cien años de soledad 976,248.71,Descripción del Cien años de soledad 976,10
+327,Destornillador 196,124.20,Descripción del Destornillador 196,5
+328,Vestido de verano 869,59.73,Descripción del Vestido de verano 869,12
+329,Jeans ajustados 600,334.51,Descripción del Jeans ajustados 600,12
+330,Parabrisas 841,220.42,Descripción del Parabrisas 841,1
+331,Sierra eléctrica 47,717.82,Descripción del Sierra eléctrica 47,5
+332,Lego Star Wars 901,420.37,Descripción del Lego Star Wars 901,9
+333,Camión de juguete 714,183.43,Descripción del Camión de juguete 714,9
+334,Tijeras de podar 587,447.36,Descripción del Tijeras de podar 587,8
+335,Cortacésped 940,434.17,Descripción del Cortacésped 940,8
+336,Bicicleta de montaña 260,744.68,Descripción del Bicicleta de montaña 260,3
+337,Manguera de jardín 669,959.23,Descripción del Manguera de jardín 669,8
+338,Cama King Size 103,276.63,Descripción del Cama King Size 103,7
+339,Auriculares inalámbricos 13,264.11,Descripción del Auriculares inalámbricos 13,4
+340,Cómoda de madera 906,812.69,Descripción del Cómoda de madera 906,11
+341,Auriculares inalámbricos 403,987.88,Descripción del Auriculares inalámbricos 403,4
+342,Laptop 899,33.59,Descripción del Laptop 899,4
+343,Cómoda de madera 138,712.02,Descripción del Cómoda de madera 138,11
+344,La Odisea 461,781.72,Descripción del La Odisea 461,10
+345,Camiseta deportiva 821,673.62,Descripción del Camiseta deportiva 821,3
+346,Estantería de madera 290,217.04,Descripción del Estantería de madera 290,7
+347,Llantas de aleación 613,434.83,Descripción del Llantas de aleación 613,1
+348,Cama King Size 497,912.41,Descripción del Cama King Size 497,7
+349,Silla de oficina 22,507.56,Descripción del Silla de oficina 22,7
+350,Tijeras de podar 12,99.03,Descripción del Tijeras de podar 12,8
+351,Vestido de verano 158,591.37,Descripción del Vestido de verano 158,12
+352,Estantería de madera 698,186.81,Descripción del Estantería de madera 698,7
+353,Camión de juguete 319,540.82,Descripción del Camión de juguete 319,9
+354,Jeans ajustados 666,833.63,Descripción del Jeans ajustados 666,12
+355,Silla ergonómica 242,458.81,Descripción del Silla ergonómica 242,11
+356,Pelota de fútbol 910,486.16,Descripción del Pelota de fútbol 910,3
+357,Llantas de aleación 863,150.12,Descripción del Llantas de aleación 863,1
+358,Llantas de aleación 242,628.53,Descripción del Llantas de aleación 242,1
+359,Camiseta deportiva 822,654.39,Descripción del Camiseta deportiva 822,3
+360,Auriculares inalámbricos 892,25.43,Descripción del Auriculares inalámbricos 892,4
+361,Sierra eléctrica 998,775.02,Descripción del Sierra eléctrica 998,5
+362,Pistola de agua 899,117.44,Descripción del Pistola de agua 899,9
+363,Escritorio de oficina 487,706.09,Descripción del Escritorio de oficina 487,11
+364,Llantas de aleación 291,524.38,Descripción del Llantas de aleación 291,1
+365,Fertilizante 555,364.30,Descripción del Fertilizante 555,8
+366,Armario de puertas correderas 803,791.70,Descripción del Armario de puertas correderas 803,11
+367,Sudadera con capucha 872,797.31,Descripción del Sudadera con capucha 872,12
+368,Muñeca Barbie 585,744.33,Descripción del Muñeca Barbie 585,9
+369,Doña Barbara,449.97,Descripción de Doña Barbara 273,10
+370,Sudadera con capucha 390,173.32,Descripción del Sudadera con capucha 390,12
+371,Tierra para plantas 505,873.08,Descripción del Tierra para plantas 505,8
+372,Filtro de aceite 206,535.39,Descripción del Filtro de aceite 206,1
+373,Cien años de soledad 529,84.22,Descripción del Cien años de soledad 529,10
+374,Taladro inalámbrico 333,691.73,Descripción del Taladro inalámbrico 333,5
+375,Jeans ajustados 568,475.62,Descripción del Jeans ajustados 568,12
+376,Camión de juguete 721,551.25,Descripción del Camión de juguete 721,9
+377,Tijeras de podar 679,93.46,Descripción del Tijeras de podar 679,8
+378,Cinturón de seguridad 628,487.30,Descripción del Cinturón de seguridad 628,1
+379,Raqueta de tenis 823,96.54,Descripción del Raqueta de tenis 823,3
+380,Raqueta de tenis 293,208.45,Descripción del Raqueta de tenis 293,3
+381,Televisor LED 55,71.20,Descripción del Televisor LED 55,4
+382,Camiseta de algodón 941,684.50,Descripción del Camiseta de algodón 941,12
+383,Bicicleta de montaña 251,810.91,Descripción del Bicicleta de montaña 251,3
+384,Cien años de soledad 238,183.30,Descripción del Cien años de soledad 238,10
+385,Escritorio de oficina 509,316.25,Descripción del Escritorio de oficina 509,11
+386,Jeans ajustados 578,690.06,Descripción del Jeans ajustados 578,12
+387,Mesa de comedor 15,889.28,Descripción del Mesa de comedor 15,7
+388,Llave inglesa 595,956.27,Descripción del Llave inglesa 595,5
+389,Sofá de cuero 22,748.45,Descripción del Sofá de cuero 22,7
+390,La Odisea 786,966.82,Descripción del La Odisea 786,10
+391,Escritorio de oficina 345,617.41,Descripción del Escritorio de oficina 345,11
+392,Sierra eléctrica 776,184.96,Descripción del Sierra eléctrica 776,5
+393,Cortacésped 666,779.51,Descripción del Cortacésped 666,8
+394,Sofá de cuero 713,840.55,Descripción del Sofá de cuero 713,7
+395,Sierra eléctrica 486,308.35,Descripción del Sierra eléctrica 486,5
+396,Mesa de comedor 686,858.89,Descripción del Mesa de comedor 686,7
+397,Chaqueta de cuero 668,368.08,Descripción del Chaqueta de cuero 668,12
+398,Silla ergonómica 275,581.97,Descripción del Silla ergonómica 275,11
+399,Cama King Size 462,823.64,Descripción del Cama King Size 462,7
+400,Sierra eléctrica 591,961.47,Descripción del Sierra eléctrica 591,5
+401,Taladro inalámbrico 723,329.39,Descripción del Taladro inalámbrico 723,5
+402,Cómoda de madera 146,476.87,Descripción del Cómoda de madera 146,11
+403,Llantas de aleación 386,555.36,Descripción del Llantas de aleación 386,1
+404,Batería para auto 730,958.32,Descripción del Batería para auto 730,1
+405,Jeans ajustados 922,844.31,Descripción del Jeans ajustados 922,12
+406,Cortacésped 348,697.01,Descripción del Cortacésped 348,8
+407,Armario de puertas correderas 499,21.76,Descripción del Armario de puertas correderas 499,11
+408,Filtro de aceite 420,147.32,Descripción del Filtro de aceite 420,1
+409,Destornillador 692,629.96,Descripción del Destornillador 692,5
+410,Auriculares inalámbricos 326,402.86,Descripción del Auriculares inalámbricos 326,4
+411,Cámara digital 260,839.31,Descripción del Cámara digital 260,4
+412,Harry Potter y la piedra filosofal 849,364.06,Descripción del Harry Potter y la piedra filosofal 849,10
+413,Bolso con Raqueta de Tenis,192.31,Descripción del Bolso con Raqueta de tenis 795,3
+414,Bicicleta de montaña 107,670.76,Descripción del Bicicleta de montaña 107,3
+415,Batería para auto 878,913.99,Descripción del Batería para auto 878,1
+416,Sierra eléctrica 23,352.56,Descripción del Sierra eléctrica 23,5
+417,Llantas de aleación 952,858.24,Descripción del Llantas de aleación 952,1
+418,Silla de oficina 331,830.44,Descripción del Silla de oficina 331,7
+419,Laptop 571,424.92,Descripción del Laptop 571,4
+420,El Principito 105,171.95,Descripción del El Principito 105,10
+421,Manguera de jardín 509,106.93,Descripción del Manguera de jardín 509,8
+422,Cámara digital 654,890.61,Descripción del Cámara digital 654,4
+423,Llave inglesa 598,258.07,Descripción del Llave inglesa 598,5
+424,Bicicleta de montaña 647,709.47,Descripción del Bicicleta de montaña 647,3
+425,Parabrisas 896,62.57,Descripción del Parabrisas 896,1
+426,Armario de puertas correderas 166,257.61,Descripción del Armario de puertas correderas 166,11
+427,Pistola de agua 26,833.01,Descripción del Pistola de agua 26,9
+428,Destornillador 505,60.47,Descripción del Destornillador 505,5
+429,Cámara digital 591,930.51,Descripción del Cámara digital 591,4
+430,Cinturón de seguridad 598,861.52,Descripción del Cinturón de seguridad 598,1
+431,Martillo 279,723.19,Descripción del Martillo 279,5
+432,Silla de oficina 800,832.77,Descripción del Silla de oficina 800,7
+433,Martillo 761,278.08,Descripción del Martillo 761,5
+434,Cien años de soledad 147,40.03,Descripción del Cien años de soledad 147,10
+435,Filtro de aceite 496,796.72,Descripción del Filtro de aceite 496,1
+436,Llantas de aleación 495,823.66,Descripción del Llantas de aleación 495,1
+437,Sudadera con capucha 206,102.30,Descripción del Sudadera con capucha 206,12
+438,Pelota de fútbol 514,88.41,Descripción del Pelota de fútbol 514,3
+439,Camiseta deportiva 347,591.69,Descripción del Camiseta deportiva 347,3
+440,Destornillador 356,204.97,Descripción del Destornillador 356,5
+441,Fertilizante 92,236.34,Descripción del Fertilizante 92,8
+442,Cómoda de madera 53,127.36,Descripción del Cómoda de madera 53,11
+443,El Principito 497,702.27,Descripción del El Principito 497,10
+444,Cama King Size 649,809.20,Descripción del Cama King Size 649,7
+445,Tijeras de podar 977,459.69,Descripción del Tijeras de podar 977,8
+446,Taladro inalámbrico 653,498.92,Descripción del Taladro inalámbrico 653,5
+447,Mesa de comedor 922,876.43,Descripción del Mesa de comedor 922,7
+448,Muñeca Barbie 140,897.33,Descripción del Muñeca Barbie 140,9
+449,Sofá de cuero 327,314.08,Descripción del Sofá de cuero 327,7
+450,Camiseta de algodón 374,916.02,Descripción del Camiseta de algodón 374,12
+451,Televisor LED 934,973.85,Descripción del Televisor LED 934,4
+452,La Odisea 701,204.15,Descripción del La Odisea 701,10
+453,Pistola de agua 788,78.08,Descripción del Pistola de agua 788,9
+454,Pistola de agua 499,151.00,Descripción del Pistola de agua 499,9
+455,Muñeca Barbie 946,686.69,Descripción del Muñeca Barbie 946,9
+456,Televisor LED 380,867.69,Descripción del Televisor LED 380,4
+457,Chaqueta de cuero 145,596.24,Descripción del Chaqueta de cuero 145,12
+458,Guantes de boxeo 874,489.09,Descripción del Guantes de boxeo 874,3
+459,Mesa de centro 623,600.85,Descripción del Mesa de centro 623,11
+460,Sudadera con capucha 349,897.14,Descripción del Sudadera con capucha 349,12
+461,Teléfono inteligente 920,242.19,Descripción del Teléfono inteligente 920,4
+462,Harry Potter y la piedra filosofal 161,371.22,Descripción del Harry Potter y la piedra filosofal 161,10
+463,Raqueta de tenis 257,644.54,Descripción del Raqueta de tenis 257,3
+464,Silla de oficina 871,943.77,Descripción del Silla de oficina 871,7
+465,Silla de oficina 585,928.37,Descripción del Silla de oficina 585,7
+466,Lego Star Wars 234,465.12,Descripción del Lego Star Wars 234,9
+467,Sudadera con capucha 476,827.62,Descripción del Sudadera con capucha 476,12
+468,Manguera de jardín 221,68.74,Descripción del Manguera de jardín 221,8
+469,Camión de juguete 896,91.63,Descripción del Camión de juguete 896,9
+470,Armario de puertas correderas 488,347.85,Descripción del Armario de puertas correderas 488,11
+471,Jeans ajustados 84,491.69,Descripción del Jeans ajustados 84,12
+472,Escritorio de oficina 997,953.20,Descripción del Escritorio de oficina 997,11
+473,Camiseta deportiva 506,461.65,Descripción del Camiseta deportiva 506,3
+474,Cortacésped 688,947.49,Descripción del Cortacésped 688,8
+475,Guantes de boxeo 709,910.38,Descripción del Guantes de boxeo 709,3
+476,Raqueta de tenis 863,704.30,Descripción del Raqueta de tenis 863,3
+477,Fertilizante 275,134.53,Descripción del Fertilizante 275,8
+478,Sofá de cuero 888,405.41,Descripción del Sofá de cuero 888,7
+479,Bicicleta de montaña 545,110.63,Descripción del Bicicleta de montaña 545,3
+480,Pelota de fútbol 989,213.67,Descripción del Pelota de fútbol 989,3
+481,Parabrisas 355,298.06,Descripción del Parabrisas 355,1
+482,El Quijote 665,114.88,Descripción del El Quijote 665,10
+483,Cama King Size 798,60.66,Descripción del Cama King Size 798,7
+484,Estantería de madera 767,202.39,Descripción del Estantería de madera 767,7
+485,Teléfono inteligente 969,601.49,Descripción del Teléfono inteligente 969,4
+486,Sudadera con capucha 819,707.16,Descripción del Sudadera con capucha 819,12
+487,El Principito 706,615.94,Descripción del El Principito 706,10
+488,Jeans ajustados 760,503.17,Descripción del Jeans ajustados 760,12
+489,Bicicleta de montaña 166,567.73,Descripción del Bicicleta de montaña 166,3
+490,Batería para auto 217,615.09,Descripción del Batería para auto 217,1
+491,Batería para auto 220,175.91,Descripción del Batería para auto 220,1
+492,Camión de juguete 72,45.27,Descripción del Camión de juguete 72,9
+493,La Odisea 453,746.52,Descripción del La Odisea 453,10
+494,Sudadera con capucha 894,604.51,Descripción del Sudadera con capucha 894,12
+495,Silla de oficina 125,817.90,Descripción del Silla de oficina 125,7
+496,Lego Star Wars 927,365.68,Descripción del Lego Star Wars 927,9
+497,El Quijote 779,741.67,Descripción del El Quijote 779,10
+498,Manguera de jardín 971,506.73,Descripción del Manguera de jardín 971,8
+499,Sudadera con capucha 848,846.20,Descripción del Sudadera con capucha 848,12
+500,Llave inglesa 54,282.07,Descripción del Llave inglesa 54,5
