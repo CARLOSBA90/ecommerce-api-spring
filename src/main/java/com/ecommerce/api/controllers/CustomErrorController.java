@@ -13,7 +13,6 @@ public class CustomErrorController implements ErrorController {
     @RequestMapping("/error")
     public ResponseEntity<String> handleError(HttpServletRequest request) {
         Integer statusCode = (Integer) request.getAttribute("jakarta.servlet.error.status_code");
-        String errorMessage = (String) request.getAttribute("jakarta.servlet.error.message");
 
         if (statusCode == HttpStatus.NOT_FOUND.value()) {
             return new ResponseEntity<>("Error 404: Recurso no encontrado", HttpStatus.NOT_FOUND);
@@ -24,7 +23,7 @@ public class CustomErrorController implements ErrorController {
         }
     }
 
-    // De acuerdo a la documentación de Spring, este método ya no es obligatorio
+    
     public String getErrorPath() {
         return "/error";
     }

@@ -27,7 +27,6 @@ public class Payment {
     @JoinColumn(name = "order_id", referencedColumnName = "id", nullable = false)
     private Order order;
 
-    @Column(nullable = false)
     private LocalDateTime paymentDate;
 
     @Column(length = 50, nullable = false)
