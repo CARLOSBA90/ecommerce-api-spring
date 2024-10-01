@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.ecommerce.api.dtos.CustomerDTO;
@@ -23,6 +25,10 @@ public class CustomerService {
     public List<CustomerDTO> getAllCustomers() {
         List<Customer> customers = customerRepository.findAll();
         return customers.stream().map(this::convertToDTO).collect(Collectors.toList());
+    }
+    
+    public Page<CustomerDTO> getAllCustomers(Pageable pageable) {
+        return customerRepository.findAll(pageable).map(this::convertToDTO);
     }
     
     public Optional<CustomerDTO> getCustomerById(Long id) {

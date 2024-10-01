@@ -7,7 +7,11 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 
 import com.ecommerce.api.dtos.CustomerDTO;
 import com.ecommerce.api.services.CustomerService;
@@ -19,19 +23,22 @@ public class CustomerController {
 	
 	private final CustomerService customerService;
 	
-	
 	public CustomerController(CustomerService customerService) {
 		this.customerService = customerService;
 	}
 	
 	@GetMapping("/all")
-	public ResponseEntity<List<CustomerDTO>> findAll() {
-	    List<CustomerDTO> categories = this.customerService.getAllCustomers();
+	public ResponseEntity<Page<CustomerDTO>> findAll(
+		    @RequestParam(defaultValue = "0") int page,
+		    @RequestParam(defaultValue = "10") int size) {
+		
+	    Pageable pageable = PageRequest.of(page, size);
+	    Page<CustomerDTO> pagedResult = customerService.getAllCustomers(pageable);
 
-	    if (categories.isEmpty()) {
+	    if (pagedResult.isEmpty()) {
 	        return ResponseEntity.noContent().build(); // 204 
 	    } else {
-	        return ResponseEntity.ok(categories); // 200 OK 
+	        return ResponseEntity.ok(pagedResult); // 200 OK 
 	    }
 	}
 	
