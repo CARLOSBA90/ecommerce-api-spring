@@ -50,7 +50,7 @@ public class ProductController {
         }
     }
 
-    @PostMapping("/description")
+    @PostMapping("/search/description")
     public ResponseEntity<PagedModel<EntityModel<ProductDTO>>> findByDescription(
             @RequestParam String description,
             @RequestParam(defaultValue = "0") int page,

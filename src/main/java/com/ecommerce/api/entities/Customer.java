@@ -25,7 +25,7 @@ public class Customer {
     @Column(nullable = false)
     private String name;
     
-    @Column(nullable = false, unique = true)
+    @Column(name = "identity_number", nullable = false, unique = true)
     private String identityNumber;
     
     @Column(nullable = false)

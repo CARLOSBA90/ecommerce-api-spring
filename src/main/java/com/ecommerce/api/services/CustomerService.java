@@ -31,6 +31,10 @@ public class CustomerService {
         return customerRepository.findAll(pageable).map(this::convertToDTO);
     }
     
+    public Optional<Customer> findByIdentityNumber(String identityNumber) {
+        return customerRepository.findByIdentityNumber(identityNumber);
+    }
+    
     public Optional<CustomerDTO> getCustomerById(Long id) {
         return customerRepository.findById(id)
             .map(this::convertToDTO); 
